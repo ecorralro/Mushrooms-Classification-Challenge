@@ -1,13 +1,13 @@
 # Mushroom Classification Challenge
 
-## Overview
+## 📋 Overview
 Welcome to the **Mushroom Classification Challenge**! This competition invites you to develop a machine learning model to classify mushrooms as either **edible** or **poisonous** based on a variety of descriptive features.
 
 Mushrooms are an essential part of nature and human consumption, but some species are dangerous if ingested. Your task is to leverage the training data provided to build a robust classification model that can accurately predict the edibility of mushrooms in the test dataset.
 
 ---
 
-## Description
+## 📖 Description
 Mushroom classification is not only a fascinating problem in biology but also a practical one. Traditionally, identifying mushrooms relied on expert knowledge and visual inspection. However, machine learning offers a scalable solution. By automating the classification process, models like the ones you’ll build could assist in reducing the risks associated with mushroom foraging and consumption.
 
 This competition also serves as a typical supervised classification task, offering an excellent opportunity to enhance your skills in:
@@ -17,7 +17,7 @@ This competition also serves as a typical supervised classification task, offeri
 
 ---
 
-## Problem Statement
+## ⚠️ Problem Statement
 The goal of this challenge is to classify mushrooms into one of two categories based on their features:
 - **Edible (E)**: Mushrooms safe to consume.
 - **Poisonous (P)**: Mushrooms that should not be consumed.
@@ -26,7 +26,7 @@ You are provided with a dataset containing several features that describe the ch
 
 ---
 
-## Dataset Description
+## 📊 Dataset Description
 The dataset includes the following features describing mushroom characteristics:
 
 | Feature                       | Description                                                                                                                                             |
@@ -57,7 +57,7 @@ The dataset includes the following features describing mushroom characteristics:
 
 ---
 
-## Evaluation
+## 🧮 Evaluation
 Submissions for this competition will be evaluated using the following metrics:
 
 - **Accuracy**: Measures the proportion of correctly classified instances in the test dataset.
